@@ -10,4 +10,4 @@ I will also have a couple of little minigames to play with. An example is Tic Ta
 
 master branch is what will be running on the live site. Any tested and approved changes will be pushed here when ready to go live.
 
-develop branch is for final testing of changes before they get pushed to live.
+develop branch is what we branch off of to make addittions and changes. We then merge back to develop branch for final testing of changes before they get pushed to live.
